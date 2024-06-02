@@ -17,7 +17,9 @@ O primeiro episódio pode ser encontrado neste link: [VaultCode ep 1](https://gi
 5. Unir todos os conteúdos através de um aplicativo de edição de vídeo, nesse caso o capcut.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um empolgante episódio de podcast introduzindo o React.js. Ele possui uma temática toda voltada para nerds e apreciadores dos jogos e serie Fallout.
+
+<a href="https://github.com/efms25/lab-natty-or-not-vault-code/blob/main/output/VAULTCODE - EP2_ REACT.mp4" title="Video mp4"> 🎵 Acesse e baixe o episódio</a>
 
 ## 💭 Reflexão (Opcional)
 As IAs torna o processo de contrução de conteúdo muito mais rápido e prático, mas ao utliza-las podemos ver que não podemos depender completamente delas.
